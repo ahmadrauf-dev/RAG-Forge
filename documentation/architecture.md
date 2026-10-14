@@ -4,4 +4,5 @@ Ingestion ->
 
 ### Ingestion 
 
-It uses Pathlib library to retreive the source files and extracts data 
+- It uses Pathlib library to retreive the source files
+- extracts data 

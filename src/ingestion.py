@@ -34,8 +34,8 @@ def load_rag_document(rag_file_path):
 
 
 ## writing this temp will remove after taking reeal document
-temp_rag_content = load_rag_document("/home/ahmad-rauf/Documents/Projects/RAG-Forge/RAG-Forge/data/rag_file.txt")
-print(temp_rag_content)
+# temp_rag_content = load_rag_document("/home/ahmad-rauf/Documents/Projects/RAG-Forge/RAG-Forge/data/rag_file.txt")
+# print(temp_rag_content)
 
 
 
